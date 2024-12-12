@@ -142,6 +142,87 @@ document.addEventListener("DOMContentLoaded", () => {
         </p>`,
       },
     ],
+    lab7: [
+      {
+        title: "Тема Мета Місце розташування сайту, звіту",
+        content: `<p>
+        <h3>Тема:</h3>КЛАСИ. ОБ'ЄКТНА МОДЕЛЬ ДОКУМЕНТА (DOM). ПОДІЇ. ОБ'ЄКТ ПОДІЇ.  
+  
+        <h3>Мета:</h3>
+        придбати практичні навички роботи з об'єктами. Методи об'єкта.. Callback. Стрілочні функції. Стрілочні функції як колбеки​.
+        . Реалізація програм засовами мови JAVASCRIPT
+ 
+        <h3>Місце розташування сайту:</h3>
+        github:<br>
+        https://github.com/romkas228/IS-31_Danuliyk_Roman_Lab7<br>
+        Жива сторінка:<br>
+        https://romkas228.github.io/IS-31_Danuliyk_Roman_Lab7/<br>
+        <h3>Місце розташування звіту:</h3>
+        github:<br>
+        https://github.com/romkas228/IS-31_Danuliyk_Roman_updatedReport<br>
+        Жива сторінка:<br>
+        https://romkas228.github.io/IS-31_Danuliyk_Roman_updatedReport/<br>
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №1",
+        content: `<p>
+        <img src="./imglab7/ex1.1.png" alt=""><br>
+        <img src="./imglab7/ex1.2.png" alt="">
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №2",
+        content: `<p>
+        <img src="./imglab7/ex2.1.png" alt=""><br>
+        <img src="./imglab7/ex2.2.png" alt="">
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №3",
+        content: `<p>
+         <img src="./imglab7/ex3.1.png" alt=""><br>
+         <img src="./imglab7/ex3.2.png" alt="">
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №4",
+        content: `<p>
+        <img src="./imglab7/ex4.1.png" alt=""><br>
+        <img src="./imglab7/ex4.2.png" alt="">
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №5",
+        content: `<p>
+        <img src="./imglab7/ex5.1.png" alt=""><br>
+        <img src="./imglab7/ex5.2.png" alt="">
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №6",
+        content: `<p>
+        <img src="./imglab7/ex6.1.png" alt=""><br>
+        <img src="./imglab7/ex6.2.png" alt="">
+
+        </p>`,
+      },
+      {
+        title: "ЗАВДАННЯ №7",
+        content: `<p>
+        <br>
+        <img src="./imglab7//ex7.1.png" alt=""><br>
+        <img src="./imglab7//ex7.2.png" alt="">
+
+        </p>`,
+      },
+      {
+        title: "ВИСНОВКИ",
+        content: `<p>
+       У результаті виконання цієї мети було набуто практичні навички роботи з об'єктами в JavaScript, зокрема освоєно використання методів об'єктів. Вивчено принципи та особливості застосування стрілочних функцій, а також їх використання як callback-функцій. Це дозволило поглибити розуміння асинхронного програмування, оптимізації коду та його читабельності. Завдяки отриманим знанням реалізовано програми різного рівня складності із застосуванням сучасних можливостей мови JavaScript, що підвищило компетентність у розробці ефективних і масштабованих веб-додатків.
+        </p>`,
+      },
+    ],
   };
 
   function updateSidebar(labId) {
